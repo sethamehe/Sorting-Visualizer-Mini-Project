@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# Sorting Visualizer (Mini-Project)
 
 ### A web application using HTML, CSS, Javascript to visualize how various sorting algorithms work. 
 ### Creating the website's User Interface (UI) using HTML, CSS and enhancing it further using Bootstrap; without actually implementing any of the app's core features.
